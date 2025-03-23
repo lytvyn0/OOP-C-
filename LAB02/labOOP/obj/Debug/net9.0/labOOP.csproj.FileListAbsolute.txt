@@ -1,0 +1,14 @@
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\bin\Debug\net9.0\labOOP.exe
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\bin\Debug\net9.0\labOOP.deps.json
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\bin\Debug\net9.0\labOOP.runtimeconfig.json
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\bin\Debug\net9.0\labOOP.dll
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\bin\Debug\net9.0\labOOP.pdb
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.AssemblyInfoInputs.cache
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.AssemblyInfo.cs
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.csproj.CoreCompileInputs.cache
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.dll
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\refint\labOOP.dll
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.pdb
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\labOOP.genruntimeconfig.cache
+C:\Users\vasya\RiderProjects\ConsoleApp1\labOOP\obj\Debug\net9.0\ref\labOOP.dll
