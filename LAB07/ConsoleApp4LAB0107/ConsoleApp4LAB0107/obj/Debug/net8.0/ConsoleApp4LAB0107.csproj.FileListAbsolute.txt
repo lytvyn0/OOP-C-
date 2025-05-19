@@ -1,0 +1,14 @@
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.AssemblyInfoInputs.cache
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.AssemblyInfo.cs
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.csproj.CoreCompileInputs.cache
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\bin\Debug\net8.0\ConsoleApp4LAB0107.exe
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\bin\Debug\net8.0\ConsoleApp4LAB0107.deps.json
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\bin\Debug\net8.0\ConsoleApp4LAB0107.runtimeconfig.json
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\bin\Debug\net8.0\ConsoleApp4LAB0107.dll
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\bin\Debug\net8.0\ConsoleApp4LAB0107.pdb
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.dll
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\refint\ConsoleApp4LAB0107.dll
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.pdb
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ConsoleApp4LAB0107.genruntimeconfig.cache
+E:\Programs\Visual Studio Projects\ConsoleApp4LAB0107\ConsoleApp4LAB0107\obj\Debug\net8.0\ref\ConsoleApp4LAB0107.dll
