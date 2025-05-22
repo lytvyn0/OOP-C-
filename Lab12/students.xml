@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student group="KN1-B23">
+		<name>Василь Литвинюк</name>
+		<grades>
+			<math>85</math>
+			<physics>78</physics>
+			<chemistry>90</chemistry>
+		</grades>
+	</student>
+	<student group="KN1-B23">
+		<name>Влад Гарасевич</name>
+		<grades>
+			<math>72</math>
+			<physics>81</physics>
+			<chemistry>68</chemistry>
+		</grades>
+	</student>
+	<student group="KN1-B23">
+		<name>Андрiй Мазур</name>
+		<grades>
+			<math>91</math>
+			<physics>89</physics>
+			<chemistry>94</chemistry>
+		</grades>
+	</student>
+</students>

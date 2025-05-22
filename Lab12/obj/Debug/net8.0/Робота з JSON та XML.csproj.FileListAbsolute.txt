@@ -1,0 +1,14 @@
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\bin\Debug\net8.0\Робота з JSON та XML.exe
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\bin\Debug\net8.0\Робота з JSON та XML.deps.json
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\bin\Debug\net8.0\Робота з JSON та XML.runtimeconfig.json
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\bin\Debug\net8.0\Робота з JSON та XML.dll
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\bin\Debug\net8.0\Робота з JSON та XML.pdb
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.AssemblyInfoInputs.cache
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.AssemblyInfo.cs
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.csproj.CoreCompileInputs.cache
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.dll
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\refint\Робота з JSON та XML.dll
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.pdb
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\Робота з JSON та XML.genruntimeconfig.cache
+E:\Programs\Visual Studio Projects\Робота з JSON та XML\Робота з JSON та XML\obj\Debug\net8.0\ref\Робота з JSON та XML.dll
